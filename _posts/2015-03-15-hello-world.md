@@ -13,6 +13,7 @@ layout: default
 **hello bar**
 
 What up cousin?
+
 - Nothing
 - A lot 
 - A whole bunch
