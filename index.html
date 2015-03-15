@@ -1,7 +1,7 @@
 ---
-layout: default
 ---
-{% assign content = site.posts.first.content %}
-{% assign title = site.posts.first.title %}
-{{ title }}
-{{ content }}
+<html>
+	<head>
+	<meta http-equiv="refresh" content="0; url={{ site.posts.first.url }}">
+</head>
+</html>
